@@ -112,7 +112,8 @@ $jsFiles = array(
     </div>
 
     <?php } else { ?>
-        <h1>NOT HOLA</h1>
+        <title>Hata</title>
+        <h2>Veri tabanı dosyası "<?php echo($database); ?>" bulunamadı, lütfen "make all" komutunu çalıştırarak veri tabanının oluşmasını sağlayın.</h1>
     <?php } ?>
 
     <?php
