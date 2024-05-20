@@ -2,7 +2,7 @@
 // Sayfa ile alakalı ayarlamalar.
 $TITLE      = "WeatherAli";
 $SEHIR      = "Düzce";
-$YIL        = "2025";
+$YIL        = "2020";
 
 // Yapay zeka verisinin içinde olduğu veri tabanı.
 $database = "weatherali.db";
