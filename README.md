@@ -11,8 +11,3 @@ Bu proje'de python'un pandas ve scikit modülleri kullanılarak, bir beldenin 20
 - [Php8]()
 - [SQLite3]()
 - [GNU/Make]()
-
-# Geliştiriciler.
-- öğrenci 1 / öğrenci numarası
-- öğrenci 2 / öğrenci numarası
-- öğrenci 3 / öğrenci numarası
